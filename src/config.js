@@ -1,0 +1,4 @@
+export const REACT_APP_MY_ACCOUNT_ID="0.0.5950785"
+export const REACT_APP_MY_PRIVATE_KEY="3030020100300706052b8104000a042204205af7571fa4f5d3de983dd2eb11d00729bafc9247d0a60e83d2c3f28d3b892ecc"
+export const ENDPOINT='https://testnet.hashio.io/api'
+export const REACT_APP_CONTRACT_ID="0.0.6770770"

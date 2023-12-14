@@ -24,7 +24,7 @@ export default function NavBar() {
       <Toolbar>
         <img src={HBARLogo} className='hbarLogoImg' />
         <Typography variant="h6" color="white" pl={1} noWrap>
-          Happy Building
+          Audio HBAR
         </Typography>
 
         <Button

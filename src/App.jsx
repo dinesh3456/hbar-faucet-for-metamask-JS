@@ -1,3 +1,4 @@
+
 import Footer from './components/Footer';
 import CssBaseline from '@mui/material/CssBaseline';
 import NavBar from './components/Navbar';
@@ -18,7 +19,7 @@ function App() {
             display: 'flex',
             flexDirection: 'column',
             minHeight: '100vh',
-            backgroundColor: '#222222',
+            backgroundColor: '#022222',
             backgroundImage: `url(${colorBackground})`,
             backgroundSize: 'cover',
             backgroundRepeat: 'no-repeat',
